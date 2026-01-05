@@ -1,0 +1,21 @@
+%YAML:1.0
+colour_thresh: 1
+angle_thresh: 15
+use_camera: 1
+camera_index: 0
+camera_width: 320
+camera_height: 240
+debug_level: 0
+video_filename: "170810cap2.avi"
+screensaver_timeout: 60
+key_delay: 10
+min_dist: 20
+max_dist: 120
+movement_thresh: 8
+min_contour_size: 500
+colour_yellow_red: 89
+colour_yellow_green: 28
+colour_yellow_blue: 0
+colour_red_red: 68
+colour_red_green: 1
+colour_red_blue: 1
